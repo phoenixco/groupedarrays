@@ -1,2 +1,0 @@
-# groupedarrays
-Created with CodeSandbox
